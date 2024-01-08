@@ -3,5 +3,4 @@ a multi-user messaging application using socket programming and thread operation
 
 what's missing:
 
-instant message notification
-message history
+instant message notification, message history
